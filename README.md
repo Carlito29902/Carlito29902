@@ -1,7 +1,9 @@
 
-- 👀 I’m interested in Coding Software Engineer 
-- 🌱 I’m currently learning Coding/Software Development 
-- 📫 How to reach me ...
+- 👀 Ethical Hacker 
+- 🌱 Coding/Software Development 
+- 🤖 AI Animation 
+- 📫 Support Team
+
 
 <!---
 Carlito29902/Carlito29902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
