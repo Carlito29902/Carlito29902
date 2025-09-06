@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Carlito29902
+
 - 👀 I’m interested in Coding Software Engineer 
 - 🌱 I’m currently learning Coding/Software Development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
